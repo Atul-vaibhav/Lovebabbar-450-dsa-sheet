@@ -1,4 +1,3 @@
-Here’s your updated README without the progress tracker:  
 
 ---
 
